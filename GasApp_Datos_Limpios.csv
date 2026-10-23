@@ -1,0 +1,7 @@
+fecha,peso_total_kg,tara_kg,gas_restante_kg,nivel_gas_pct,temperatura,dia_semana,estado_gas
+2026-10-01,22.5,12.5,10.0,100.0,25,Thursday,Nivel normal
+2026-10-02,22.0,12.5,9.5,95.0,26,Friday,Nivel normal
+2026-10-03,21.6,12.5,9.100000000000001,91.00000000000001,24,Saturday,Nivel normal
+2026-10-04,21.2,12.5,8.7,86.99999999999999,27,Sunday,Nivel normal
+2026-10-05,20.799999999999997,12.5,8.299999999999997,82.99999999999997,26,Monday,Nivel normal
+2026-10-06,20.4,12.5,7.899999999999999,78.99999999999999,25,Tuesday,Nivel normal
